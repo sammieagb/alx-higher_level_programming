@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def add(k, j):
+def add(a, b):
 """Return the addition of k & J."""
-return (k + j)
+return (a + b)
